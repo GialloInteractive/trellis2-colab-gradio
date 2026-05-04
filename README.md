@@ -7,7 +7,6 @@ Run the official [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) G
 ## What This Repository Contains
 
 - `TRELLIS2_Gradio_Colab_EN.ipynb`: English Colab notebook for launching TRELLIS.2 with Gradio.
-- `TRELLIS2_Gradio_Colab.ipynb`: Italian version of the same notebook.
 - `SECURITY.md`: Safe sharing and token-handling guidance.
 - `NOTICE.md`: Attribution and upstream licensing notes.
 
