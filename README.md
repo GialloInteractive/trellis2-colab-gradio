@@ -40,17 +40,6 @@ The official TRELLIS.2 README states that the code is tested on Linux with A100/
 - Treat `gradio.live` links as public temporary links. Anyone with the URL can access the running demo while your session is active.
 - For a stable public demo, prefer a dedicated Hugging Face Space with Secrets configured in the Space settings.
 
-## Recommended Public Distribution
-
-For a professional public release:
-
-1. Publish this repository on GitHub.
-2. Keep notebooks free of execution outputs.
-3. Add a clear Colab badge in this README.
-4. Pin important versions when stability matters.
-5. Document gated model access and GPU requirements upfront.
-6. Use Hugging Face Spaces for a hosted public Gradio app rather than relying on Colab `gradio.live` links.
-
 ## Troubleshooting
 
 ### `403 Forbidden` for DINOv3
