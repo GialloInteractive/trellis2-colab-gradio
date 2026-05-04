@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments
+.env
+.venv/
+venv/
+env/
+
+# Secrets and tokens
+*.key
+*.pem
+*.token
+auth.json
+auth_*.json
+secrets.*
+
+# Model/runtime artifacts
+TRELLIS.2/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.glb
+*.gltf
+*.obj
+*.mp4
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
